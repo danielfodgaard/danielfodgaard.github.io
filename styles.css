@@ -1,0 +1,8 @@
+/* Small tweaks on top of the cosmo theme */
+.profile-photo img {
+  border-radius: 6px;
+  max-width: 100%;
+}
+.link-row a {
+  margin-right: 0.9rem;
+}

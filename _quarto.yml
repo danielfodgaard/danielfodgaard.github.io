@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Daniel"
+  site-url: https://danielfodgaard.github.io
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - text: Writings
+        href: writings/index.qmd
+      - text: Travel
+        href: travel/index.qmd
+      - text: Blog posts
+        href: blog/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

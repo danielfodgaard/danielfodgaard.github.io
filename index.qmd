@@ -1,0 +1,33 @@
+---
+title: "Daniel"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+
+::: {.link-row}
+[GitHub](https://github.com/danielfodgaard)
+:::
+
+Computer science student at Aarhus University
+
+## Interests
+
+- Algorithms and competitive programming
+- Quantitative work on energy markets
+- Running
+
+## Latest
+
+Read my [writings](writings/index.qmd), [travel notes](travel/index.qmd), or [blog posts](blog/index.qmd).
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .profile-photo}
+![](images/profile.jpg)
+:::
+
+:::

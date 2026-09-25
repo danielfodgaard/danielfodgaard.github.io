@@ -1,0 +1,6 @@
+---
+title: "An example essay"
+date: 2026-09-25
+---
+
+Longer, more polished pieces go here.
